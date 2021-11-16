@@ -16,5 +16,5 @@ const CONFIG = {
     mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
     messDesc: 'Nhắn tin cho mình luôn nha.',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'http://m.me/100014996986769
+    messLink: 'https://www.messenger.com/t/100014996986769/
 }
